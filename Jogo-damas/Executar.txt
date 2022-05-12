@@ -1,4 +1,4 @@
 O  jogo foi feito na linguagem Java usando o IntelliJ para criar o projeto.
-Para executar é necesário abrir a IDE e importar o projeto e compilar o mesmo, pode-se também executar o arquivo .java do projeto. 
-Para jogar é apenas seguir as instruções que aparecem na tela, a numeração das casas é de acordo com a numeração nas regras
+Para executar Ã© necessÃ¡rio abrir a IDE e importar o projeto e compilar o mesmo, pode-se tambÃ©m executar o arquivo .java do projeto. 
+Para jogar Ã© apenas seguir as instruÃ§Ãµes que aparecem na tela, a numeraÃ§Ã£o das casas Ã© de acordo com a numeraÃ§Ã£o nas regras
 oficiais e na imagem anexa.
